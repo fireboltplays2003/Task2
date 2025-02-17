@@ -26,7 +26,7 @@ When a client visits `http://localhost:3000/`, the server responds with the **HT
 
 - **Stephanos Khoury**
 - **Rula Yosef**
-
+---
 
 ### **Server Code (`app.js`)**
 ```javascript
