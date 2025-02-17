@@ -121,7 +121,6 @@ This is the **HTML page** that the server serves to users. It displays a **book 
 
 ---
 
-## **License**
-📝 MIT License - Feel free to modify and use as needed.
+
 
 ---
