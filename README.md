@@ -22,8 +22,12 @@ The server listens on port **3000** and includes:
 When a client visits `http://localhost:3000/`, the server responds with the **HTML page** (`page.html`), displaying a book component.  
 
 ---
+## Programmers
 
-## **Code**
+- **Stephanos Khoury**
+- **Rula Yosef**
+
+--
 
 ### **Server Code (`app.js`)**
 ```javascript
